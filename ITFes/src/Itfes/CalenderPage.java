@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Created by madoka on 2017/04/19.
  */
-public class CalendarPage extends DispPageClass {
+class CalendarPage extends DispPageClass {
 
     public void dispPage() {
 
