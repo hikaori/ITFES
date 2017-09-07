@@ -12,5 +12,6 @@ https://docs.google.com/spreadsheets/d/1kJsQYqFuBvA53hzve042Nvp5noHGcpQ3SUKRJSsg
 
 #image
 <div align="center">
-<img src="https://raw.githubusercontent.com/hikaori/ITFES/master/img/ITFesMockup.jpg">
+  <img src="https://raw.githubusercontent.com/hikaori/ITFES/master/img/ITFesMockup.jpg">
+  <img src="https://raw.githubusercontent.com/hikaori/ITFES/master/img/ITFesCommandImg.jpg">
 </div>
