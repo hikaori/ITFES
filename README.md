@@ -1,6 +1,6 @@
 [![Language](https://img.shields.io/badge/language-java-brightgreen.svg)](https://www.oracle.com/java/index.html)
 # IT Fes
-This command program that user get collection of information about IT event such as<br>
+An App that user get collection of information about IT event such as<br>
 Work Shop , Conference , Job Fare ’ etc.<br> 
 
 # Function
